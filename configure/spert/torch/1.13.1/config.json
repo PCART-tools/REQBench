@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/spert",
+       "requirementsPath": "/dataset/lei/requirements/spert/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.4.0",
+       "targetVersion": "1.13.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

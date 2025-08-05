@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/PyTorch-ENet",
+       "requirementsPath": "/dataset/lei/requirements/PyTorch-ENet/requirements.txt",
+       "targetLibrary": "pillow",
+       "startVersion": "6.2.0",
+       "targetVersion": "7.1.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

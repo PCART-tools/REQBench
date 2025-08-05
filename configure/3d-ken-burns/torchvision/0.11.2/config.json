@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/3d-ken-burns",
+       "requirementsPath": "/dataset/lei/requirements/3d-ken-burns/requirements.txt",
+       "targetLibrary": "torchvision",
+       "startVersion": "0.8.0",
+       "targetVersion": "0.11.2",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

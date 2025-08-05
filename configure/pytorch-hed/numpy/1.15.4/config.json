@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/pytorch-hed",
+       "requirementsPath": "/dataset/lei/requirements/pytorch-hed/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.15.0",
+       "targetVersion": "1.15.4",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

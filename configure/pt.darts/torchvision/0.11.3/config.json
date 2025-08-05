@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/pt.darts",
+       "requirementsPath": "/dataset/lei/requirements/pt.darts/requirements.txt",
+       "targetLibrary": "torchvision",
+       "startVersion": "0.2.1",
+       "targetVersion": "0.11.3",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

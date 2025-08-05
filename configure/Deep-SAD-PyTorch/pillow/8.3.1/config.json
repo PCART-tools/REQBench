@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/Deep-SAD-PyTorch",
+       "requirementsPath": "/dataset/lei/requirements/Deep-SAD-PyTorch/requirements.txt",
+       "targetLibrary": "pillow",
+       "startVersion": "6.0.0",
+       "targetVersion": "8.3.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

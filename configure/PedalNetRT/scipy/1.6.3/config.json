@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/PedalNetRT",
+       "requirementsPath": "/dataset/lei/requirements/PedalNetRT/requirements.txt",
+       "targetLibrary": "scipy",
+       "startVersion": "1.5.4",
+       "targetVersion": "1.6.3",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/PyTorch-ENet",
+       "requirementsPath": "/dataset/lei/requirements/PyTorch-ENet/requirements.txt",
+       "targetLibrary": "torchvision",
+       "startVersion": "0.3.0",
+       "targetVersion": "0.9.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

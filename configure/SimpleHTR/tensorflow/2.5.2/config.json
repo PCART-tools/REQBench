@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/SimpleHTR",
+       "requirementsPath": "/dataset/lei/requirements/SimpleHTR/requirements.txt",
+       "targetLibrary": "tensorflow",
+       "startVersion": "2.4.0",
+       "targetVersion": "2.5.2",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

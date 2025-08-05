@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/siren",
+       "requirementsPath": "/dataset/lei/requirements/siren/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.17.2",
+       "targetVersion": "1.21.3",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

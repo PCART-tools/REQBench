@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/deep-belief-network",
+       "requirementsPath": "/dataset/lei/requirements/deep-belief-network/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.16.4",
+       "targetVersion": "1.19.5",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

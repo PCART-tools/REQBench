@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/GLCIC-PyTorch",
+       "requirementsPath": "/dataset/lei/requirements/GLCIC-PyTorch/requirements.txt",
+       "targetLibrary": "pillow",
+       "startVersion": "8.2.0",
+       "targetVersion": "9.2.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

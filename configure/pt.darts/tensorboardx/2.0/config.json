@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/pt.darts",
+       "requirementsPath": "/dataset/lei/requirements/pt.darts/requirements.txt",
+       "targetLibrary": "tensorboardx",
+       "startVersion": "1.6",
+       "targetVersion": "2.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

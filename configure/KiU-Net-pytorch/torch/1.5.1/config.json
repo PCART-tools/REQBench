@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/KiU-Net-pytorch",
+       "requirementsPath": "/dataset/lei/requirements/KiU-Net-pytorch/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.4.0",
+       "targetVersion": "1.5.1",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

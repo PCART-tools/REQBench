@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/hifi-gan",
+       "requirementsPath": "/dataset/lei/requirements/hifi-gan/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.17.4",
+       "targetVersion": "1.18.4",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

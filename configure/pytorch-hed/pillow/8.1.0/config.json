@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/pytorch-hed",
+       "requirementsPath": "/dataset/lei/requirements/pytorch-hed/requirements.txt",
+       "targetLibrary": "pillow",
+       "startVersion": "5.0.0",
+       "targetVersion": "8.1.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

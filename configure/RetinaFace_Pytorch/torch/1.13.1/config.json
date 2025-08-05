@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/RetinaFace_Pytorch",
+       "requirementsPath": "/dataset/lei/requirements/RetinaFace_Pytorch/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.1.0",
+       "targetVersion": "1.13.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

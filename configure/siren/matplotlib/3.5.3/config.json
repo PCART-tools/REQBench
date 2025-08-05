@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/siren",
+       "requirementsPath": "/dataset/lei/requirements/siren/requirements.txt",
+       "targetLibrary": "matplotlib",
+       "startVersion": "3.0.3",
+       "targetVersion": "3.5.3",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

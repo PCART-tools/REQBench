@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/graphSAGE-pytorch",
+       "requirementsPath": "/dataset/lei/requirements/graphSAGE-pytorch/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.0.1",
+       "targetVersion": "1.2.0",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

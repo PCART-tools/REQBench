@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/svoice",
+       "requirementsPath": "/dataset/lei/requirements/svoice/requirements.txt",
+       "targetLibrary": "torchaudio",
+       "startVersion": "0.6.0",
+       "targetVersion": "0.12.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

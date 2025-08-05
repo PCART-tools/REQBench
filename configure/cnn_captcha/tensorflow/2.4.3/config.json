@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/cnn_captcha",
+       "requirementsPath": "/dataset/lei/requirements/cnn_captcha/requirements.txt",
+       "targetLibrary": "tensorflow",
+       "startVersion": "1.7.0",
+       "targetVersion": "2.4.3",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

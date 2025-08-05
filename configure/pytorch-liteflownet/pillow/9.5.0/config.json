@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/pytorch-liteflownet",
+       "requirementsPath": "/dataset/lei/requirements/pytorch-liteflownet/requirements.txt",
+       "targetLibrary": "pillow",
+       "startVersion": "9.3.0",
+       "targetVersion": "9.5.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

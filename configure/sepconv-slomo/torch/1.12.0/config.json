@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/sepconv-slomo",
+       "requirementsPath": "/dataset/lei/requirements/sepconv-slomo/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.7.0",
+       "targetVersion": "1.12.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

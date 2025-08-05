@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/Sentence-VAE",
+       "requirementsPath": "/dataset/lei/requirements/Sentence-VAE/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.5.0",
+       "targetVersion": "1.10.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

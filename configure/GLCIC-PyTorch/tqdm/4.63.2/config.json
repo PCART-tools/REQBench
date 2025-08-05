@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/GLCIC-PyTorch",
+       "requirementsPath": "/dataset/lei/requirements/GLCIC-PyTorch/requirements.txt",
+       "targetLibrary": "tqdm",
+       "startVersion": "4.61.1",
+       "targetVersion": "4.63.2",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

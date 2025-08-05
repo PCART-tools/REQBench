@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/Federated-Learning-PyTorch",
+       "requirementsPath": "/dataset/lei/requirements/Federated-Learning-PyTorch/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.2.0",
+       "targetVersion": "1.7.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

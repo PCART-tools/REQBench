@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/PyTorch-ENet",
+       "requirementsPath": "/dataset/lei/requirements/PyTorch-ENet/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.16.0",
+       "targetVersion": "1.17.2",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/StyleGAN-Tensorflow",
+       "requirementsPath": "/dataset/lei/requirements/StyleGAN-Tensorflow/requirements.txt",
+       "targetLibrary": "tensorflow",
+       "startVersion": "1.13.1",
+       "targetVersion": "2.2.0",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

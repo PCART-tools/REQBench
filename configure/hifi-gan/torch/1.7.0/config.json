@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/hifi-gan",
+       "requirementsPath": "/dataset/lei/requirements/hifi-gan/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.4.0",
+       "targetVersion": "1.7.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

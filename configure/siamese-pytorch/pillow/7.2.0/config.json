@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/siamese-pytorch",
+       "requirementsPath": "/dataset/lei/requirements/siamese-pytorch/requirements.txt",
+       "targetLibrary": "pillow",
+       "startVersion": "5.4.1",
+       "targetVersion": "7.2.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

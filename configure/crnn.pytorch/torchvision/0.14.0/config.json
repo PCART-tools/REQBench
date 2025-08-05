@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/crnn.pytorch",
+       "requirementsPath": "/dataset/lei/requirements/crnn.pytorch/requirements.txt",
+       "targetLibrary": "torchvision",
+       "startVersion": "0.4.0",
+       "targetVersion": "0.14.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

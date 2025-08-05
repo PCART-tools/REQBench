@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/DexiNed",
+       "requirementsPath": "/dataset/lei/requirements/DexiNed/requirements.txt",
+       "targetLibrary": "opencv-python",
+       "startVersion": "4.6.0.66",
+       "targetVersion": "4.8.0.74",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

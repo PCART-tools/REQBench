@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/Deep-SAD-PyTorch",
+       "requirementsPath": "/dataset/lei/requirements/Deep-SAD-PyTorch/requirements.txt",
+       "targetLibrary": "torchvision",
+       "startVersion": "0.3.0",
+       "targetVersion": "0.11.3",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

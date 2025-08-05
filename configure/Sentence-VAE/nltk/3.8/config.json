@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/Sentence-VAE",
+       "requirementsPath": "/dataset/lei/requirements/Sentence-VAE/requirements.txt",
+       "targetLibrary": "nltk",
+       "startVersion": "3.6.5",
+       "targetVersion": "3.8",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/MASTER-pytorch",
+       "requirementsPath": "/dataset/lei/requirements/MASTER-pytorch/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.5.1",
+       "targetVersion": "1.7.0",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

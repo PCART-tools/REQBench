@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/cnn_captcha",
+       "requirementsPath": "/dataset/lei/requirements/cnn_captcha/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.16.2",
+       "targetVersion": "1.18.1",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

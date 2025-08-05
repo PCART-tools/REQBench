@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/PedalNetRT",
+       "requirementsPath": "/dataset/lei/requirements/PedalNetRT/requirements.txt",
+       "targetLibrary": "pytorch-lightning",
+       "startVersion": "1.1.0",
+       "targetVersion": "1.4.6",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

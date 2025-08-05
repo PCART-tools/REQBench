@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/siamese-pytorch",
+       "requirementsPath": "/dataset/lei/requirements/siamese-pytorch/requirements.txt",
+       "targetLibrary": "torchvision",
+       "startVersion": "0.2.1",
+       "targetVersion": "0.14.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

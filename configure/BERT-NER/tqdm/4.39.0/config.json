@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/BERT-NER",
+       "requirementsPath": "/dataset/lei/requirements/BERT-NER/requirements.txt",
+       "targetLibrary": "tqdm",
+       "startVersion": "4.31.1",
+       "targetVersion": "4.39.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

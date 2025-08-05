@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/DeepMosaics",
+       "requirementsPath": "/dataset/lei/requirements/DeepMosaics/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.19.3",
+       "targetVersion": "1.21.6",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

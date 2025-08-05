@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/R-BERT",
+       "requirementsPath": "/dataset/lei/requirements/R-BERT/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.6.0",
+       "targetVersion": "1.9.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/svoice",
+       "requirementsPath": "/dataset/lei/requirements/svoice/requirements.txt",
+       "targetLibrary": "pesq",
+       "startVersion": "0.0.2",
+       "targetVersion": "0.0.3",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

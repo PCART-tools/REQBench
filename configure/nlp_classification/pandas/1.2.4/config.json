@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/nlp_classification",
+       "requirementsPath": "/dataset/lei/requirements/nlp_classification/requirements.txt",
+       "targetLibrary": "pandas",
+       "startVersion": "1.0.3",
+       "targetVersion": "1.2.4",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

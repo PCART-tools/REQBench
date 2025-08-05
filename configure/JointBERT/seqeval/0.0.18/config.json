@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/JointBERT",
+       "requirementsPath": "/dataset/lei/requirements/JointBERT/requirements.txt",
+       "targetLibrary": "seqeval",
+       "startVersion": "0.0.12",
+       "targetVersion": "0.0.18",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

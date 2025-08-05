@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/ConSinGAN",
+       "requirementsPath": "/dataset/lei/requirements/ConSinGAN/requirements.txt",
+       "targetLibrary": "torchvision",
+       "startVersion": "0.2.2",
+       "targetVersion": "0.4.0",
+       "pythonVersion": "3.5",
+       "knowledgePath": "/dataset/lei/"
+}

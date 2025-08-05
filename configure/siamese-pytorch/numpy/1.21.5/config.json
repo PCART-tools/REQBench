@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/siamese-pytorch",
+       "requirementsPath": "/dataset/lei/requirements/siamese-pytorch/requirements.txt",
+       "targetLibrary": "numpy",
+       "startVersion": "1.16.1",
+       "targetVersion": "1.21.5",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

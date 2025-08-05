@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/DeepMosaics",
+       "requirementsPath": "/dataset/lei/requirements/DeepMosaics/requirements.txt",
+       "targetLibrary": "opencv-python",
+       "startVersion": "4.5.1.48",
+       "targetVersion": "4.7.0.68",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

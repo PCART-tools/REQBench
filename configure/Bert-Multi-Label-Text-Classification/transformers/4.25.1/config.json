@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/Bert-Multi-Label-Text-Classification",
+       "requirementsPath": "/dataset/lei/requirements/Bert-Multi-Label-Text-Classification/requirements.txt",
+       "targetLibrary": "transformers",
+       "startVersion": "2.5.1",
+       "targetVersion": "4.25.1",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}

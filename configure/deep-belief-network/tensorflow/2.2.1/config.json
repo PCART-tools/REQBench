@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/deep-belief-network",
+       "requirementsPath": "/dataset/lei/requirements/deep-belief-network/requirements.txt",
+       "targetLibrary": "tensorflow",
+       "startVersion": "1.5.0",
+       "targetVersion": "2.2.1",
+       "pythonVersion": "3.6",
+       "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,9 @@
+{
+       "projPath": "/dataset/lei/projects/nlp_classification",
+       "requirementsPath": "/dataset/lei/requirements/nlp_classification/requirements.txt",
+       "targetLibrary": "torch",
+       "startVersion": "1.5.0",
+       "targetVersion": "1.13.0",
+       "pythonVersion": "3.7",
+       "knowledgePath": "/dataset/lei/"
+}
