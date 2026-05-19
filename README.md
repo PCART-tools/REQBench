@@ -57,6 +57,4 @@ All configuration files are located in the configure folder.
 
 ## License
 
-The code in this repository is licensed under the GNU Affero General Public License v3.0. See [LICENSE.txt](./LICENSE.txt) for details.
-
-The benchmark data, documentation, and evaluation artifacts in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+REQBench is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE.txt](./LICENSE.txt) for details.
