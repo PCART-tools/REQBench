@@ -36,8 +36,35 @@ tar -xzvf projectName.tar.gz -C projects
 ```
 
 ## How Does PCREQ Use It?
-Each test case in REQBench can be regarded as an independent test project. To use [PCREQ]([https://github.com/PCREQ/PCREQ]) to infer compatible requirements in REQBench.
-#### Write Configuration Files Manually
+Each test case in REQBench can be regarded as an independent test project. To use [PCREQ](https://github.com/PCREQ/PCREQ) to infer compatible requirements in REQBench, you need a configuration file for each test case.
+
+### Batch-Generate Config Files (Recommended)
+
+All test cases are defined in `configure/test.json`. Use `configure/run.py` to batch-generate every `config.json` at once.
+
+**Step 1** — Edit the three paths at the top of `configure/run.py` to match your local environment:
+```python
+knowledge_path = "/dataset/lei/"              # Change to your knowledge directory
+proj_path = "/dataset/lei/projects/"           # Change to your projects directory
+requirements_path = "/dataset/lei/requirements/"  # Change to your requirements directory
+```
+
+**Step 2** — Run the generator from the `configure/` directory:
+```shell
+cd configure
+python run.py
+```
+This creates the directory tree `configure/<project>/<library>/<version>/config.json` for all 2,095 test cases.
+
+**Step 3** — Copy the generated config to `PCREQ/configure` and run PCREQ:
+```shell
+cp configure/PyTorch-ENet/torch/1.2.0/config.json /path/to/PCREQ/configure/
+cd /path/to/PCREQ
+python main.py --config config.json
+```
+
+### Write a Single Config File Manually
+Alternatively, create a config.json by hand:
 ```json
 {
     "projPath": "/home/usr/projects/project",
@@ -53,7 +80,6 @@ Then, copy the configuration file to `PCREQ/configure` and run the command as fo
 ```shell
 python main.py --config config.json
 ```
-All configuration files are located in the configure folder.
 
 ## License
 
