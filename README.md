@@ -42,21 +42,21 @@ Each test case in REQBench can be regarded as an independent test project. To us
 
 All test cases are defined in `configure/test.json`. Use `configure/run.py` to batch-generate every `config.json` at once.
 
-**Step 1** — Edit the three paths at the top of `configure/run.py` to match your local environment:
+**Step 1:** Edit the three paths at the top of `configure/run.py` to match your local environment:
 ```python
 knowledge_path = "/dataset/lei/"              # Change to your knowledge directory
 proj_path = "/dataset/lei/projects/"           # Change to your projects directory
 requirements_path = "/dataset/lei/requirements/"  # Change to your requirements directory
 ```
 
-**Step 2** — Run the generator from the `configure/` directory:
+**Step 2:** Run the generator from the `configure/` directory:
 ```shell
 cd configure
 python run.py
 ```
 This creates the directory tree `configure/<project>/<library>/<version>/config.json` for all 2,095 test cases.
 
-**Step 3** — Copy the generated config to `PCREQ/configure` and run PCREQ:
+**Step 3:** Copy the generated config to `PCREQ/configure` and run PCREQ:
 ```shell
 cp configure/PyTorch-ENet/torch/1.2.0/config.json /path/to/PCREQ/configure/
 cd /path/to/PCREQ
